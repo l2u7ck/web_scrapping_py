@@ -1,26 +1,30 @@
-import re
+import json
 
-import requests
-import bs4
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver import Chrome
 from selenium.webdriver.common.by import By
 
 
-def add_links_vacancy(page_link):
+# Browser connection
+def connect_browser():
 
     path = ChromeDriverManager().install()
     browser_service = Service(executable_path=path)
-    browser = Chrome(service=browser_service)
+    return Chrome(service=browser_service)
+
+
+# Getting links to job vacancies
+def add_links_vacancy(browser, page_link):
+
     check = True
     box = set()
 
     while check:
 
         browser.get(page_link)
-        b = browser.find_element(By.CLASS_NAME, "vacancy-serp-content")
 
+        b = browser.find_element(By.CLASS_NAME, "vacancy-serp-content")
         links = b.find_elements(By.CLASS_NAME, "serp-item__title-link-wrapper")
 
         for item in links:
@@ -37,6 +41,7 @@ def add_links_vacancy(page_link):
     return box
 
 
+# Page next
 def next_page(b):
 
     buttons = b.find_elements(By.CLASS_NAME, "bloko-gap")
@@ -56,18 +61,63 @@ def next_page(b):
         return None
 
 
-def k():
-    pass
+# Vacancy data collection
+def get_data(browser, vacancies):
+
+    job_list = list()
+
+    for vacancy_link in vacancies:
+
+        job_data = dict()
+
+        browser.get(vacancy_link)
+
+        job_data['vacancy_link'] = vacancy_link
+        company = browser.find_element(By.CLASS_NAME, "vacancy-company-name")
+
+        job_data['company_link'] = company.find_element(By.TAG_NAME, 'a').get_attribute('href')
+        job_data['name'] = company.text
+
+        address = (browser.find_element(By.CLASS_NAME, "vacancy-company-redesigned").
+                   find_element(By.CLASS_NAME, "magritte-text___pbpft_3-0-12")).text
+        job_data['city'] = address.split(',')[0]
+
+        salary = (browser.find_element(By.CLASS_NAME, "vacancy-title").
+                  find_element(By.CLASS_NAME, "magritte-text___pbpft_3-0-12"))
+        job_data['salary'] = salary.text
+
+        job_list.append(job_data)
+
+    return job_list
+
+
+# Adding in json
+def add_json(data):
+
+    with open('data.json', 'w', encoding="utf-8") as f:
+        json.dump(data, f, sort_keys=True, indent=2, ensure_ascii=False)
+
+    f.close()
+
 
 if __name__ == '__main__':
 
-    begin_link_py = "https://spb.hh.ru/search/vacancy?text=python&area=1&area=2"
+    browser = connect_browser()
+
+    begin_link_python = "https://spb.hh.ru/search/vacancy?text=python&area=1&area=2"
     begin_link_django_flask = ("https://spb.hh.ru/search/vacancy?"
                                "text=Django+AND+Flask&salary=&"
                                "ored_clusters=true&search_field=description&area=1&"
                                "area=2&hhtmFrom=vacancy_search_list&hhtmFromLabel=vacancy_search_line")
-    res1 = add_links_vacancy(begin_link_py)
-    res2 = add_links_vacancy(begin_link_django_flask)
+
+    res1 = add_links_vacancy(browser, begin_link_python)
+    res2 = add_links_vacancy(browser, begin_link_django_flask)
     result = res1.intersection(res2)
-    print(result)
+
+    # result = ["https://spb.hh.ru/vacancy/104415649"]
+    job_list = get_data(browser, result)
+    add_json(job_list)
+
+
+
 

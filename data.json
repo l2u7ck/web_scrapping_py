@@ -1,0 +1,527 @@
+[
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/869045?hhtmFrom=vacancy",
+    "name": "Московский метрополитен",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/102742641"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/838415?hhtmFrom=vacancy",
+    "name": "ГК АВТОРУСЬ",
+    "salary": "от 300 000 до 400 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103963427"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/3529?dpt=3529-3529-prof&hhtmFrom=vacancy",
+    "name": "Сбер для экспертов",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/99177085"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/5992859?hhtmFrom=vacancy",
+    "name": "Ошка",
+    "salary": "от 300 000 до 320 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103515499"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/10444577?hhtmFrom=vacancy",
+    "name": "Sentium (ИП Пономаренко Никита Александрович)",
+    "salary": "от 100 000 ₽ до вычета налогов",
+    "vacancy_link": "https://spb.hh.ru/vacancy/105143467"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4016730?hhtmFrom=vacancy",
+    "name": "LITE Gallery",
+    "salary": "от 140 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104578756"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/10613129?hhtmFrom=vacancy",
+    "name": "ООО МООМАЙНД",
+    "salary": "до 80 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104162688"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/10628069?hhtmFrom=vacancy",
+    "name": "ИП Лао Оливарес Кристина Вячеславовна",
+    "salary": "от 300 000 до 350 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103593021"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/10399986?hhtmFrom=vacancy",
+    "name": "Hyperus",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/99280907"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4046921?hhtmFrom=vacancy",
+    "name": "Tevian (ООО Технологии видеоанализа)",
+    "salary": "от 200 000 до 285 000 ₽ до вычета налогов",
+    "vacancy_link": "https://spb.hh.ru/vacancy/102263018"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/814087?hhtmFrom=vacancy",
+    "name": "ООО Модум-Транс",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103885193"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4623486?hhtmFrom=vacancy",
+    "name": "ООО Центр Орбита",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103644887"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/1092665?hhtmFrom=vacancy",
+    "name": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
+    "salary": "до 150 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/102924206"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/1911403?hhtmFrom=vacancy",
+    "name": "Angara Security",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104544609"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/1226232?hhtmFrom=vacancy",
+    "name": "Гарпикс",
+    "salary": "до 200 000 ₽ до вычета налогов",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103930325"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4563362?hhtmFrom=vacancy",
+    "name": "АНО ЦИСМ",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104729022"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/2251053?hhtmFrom=vacancy",
+    "name": "ООО WaveAccess",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104013460"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4649269?dpt=4649269-4649269-innoteh&hhtmFrom=vacancy",
+    "name": "ООО ГК Иннотех | Финтех (Иннотех)",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104546931"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/1795976?hhtmFrom=vacancy",
+    "name": "Университет ИТМО",
+    "salary": "от 230 000 ₽ до вычета налогов",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103229050"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/3087089?hhtmFrom=vacancy",
+    "name": "ООО Анлимитед Продакшен",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/100502794"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/1492559?hhtmFrom=vacancy",
+    "name": "ООО СКАИД",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104706333"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/9641357?hhtmFrom=vacancy",
+    "name": "ООО ИНФОМЕДИА",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104131893"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/1461362?hhtmFrom=vacancy",
+    "name": "ООО Мевикс",
+    "salary": "от 110 000 до 130 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104900747"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/10528952?hhtmFrom=vacancy",
+    "name": "AldanDev",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104478742"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/2367681?dpt=2367681-2367681-it&hhtmFrom=vacancy",
+    "name": "BI.ZONE Направление Информационные технологии",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104718755"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/2478416?hhtmFrom=vacancy",
+    "name": "ООО HD LED TECH",
+    "salary": "от 100 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103764869"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/1062788?hhtmFrom=vacancy",
+    "name": "ООО Napoleon IT",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104575532"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/1993194?hhtmFrom=vacancy",
+    "name": "YADRO",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/98540369"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/58320?hhtmFrom=vacancy",
+    "name": "АО Россельхозбанк",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104010566"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/5208335?hhtmFrom=vacancy",
+    "name": "Coding Team",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103483551"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4614421?hhtmFrom=vacancy",
+    "name": "RedLab",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103997014"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/35065?hhtmFrom=vacancy",
+    "name": "Sitronics Group",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104547636"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/1505372?hhtmFrom=vacancy",
+    "name": "ООО Страта Солюшенс",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/105329537"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/4105707?hhtmFrom=vacancy",
+    "name": "ООО Норд Клан",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103282341"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/841097?hhtmFrom=vacancy",
+    "name": "АО НИИ МАСШТАБ",
+    "salary": "до 400 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104524010"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/1833?dpt=1833-1833-bank&hhtmFrom=vacancy",
+    "name": "БКС IT & Digital",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103571119"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/2866992?hhtmFrom=vacancy",
+    "name": "ООО ЭНГРИ",
+    "salary": "от 250 000 до 350 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104716881"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/10639975?hhtmFrom=vacancy",
+    "name": "Самвелян Хачатур Арменович",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104861159"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4920624?hhtmFrom=vacancy",
+    "name": "ООО Селфсек",
+    "salary": "от 150 000 до 200 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/72687504"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/201?dpt=201-201-itserv&hhtmFrom=vacancy",
+    "name": "Kept, ИТ-сервисы",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103716610"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/3716085?hhtmFrom=vacancy",
+    "name": "Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/105327672"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/618292?hhtmFrom=vacancy",
+    "name": "FIX",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/101137760"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/873105?hhtmFrom=vacancy",
+    "name": "ООО Корпорация ЗНАК",
+    "salary": "от 150 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103792831"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/1993194?hhtmFrom=vacancy",
+    "name": "YADRO",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/97223559"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4751605?hhtmFrom=vacancy",
+    "name": "ООО Эвокарго",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/91885582"
+  },
+  {
+    "city": "г.Москва",
+    "company_link": "https://spb.hh.ru/employer/12550?dpt=12550-12550-pick&hhtmFrom=vacancy",
+    "name": "ПИК",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103982331"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/10990221?hhtmFrom=vacancy",
+    "name": "Kinetica",
+    "salary": "от 200 000 до 320 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104083524"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/211052?hhtmFrom=vacancy",
+    "name": "Аналитический центр при Правительстве Российской Федерации",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103537186"
+  },
+  {
+    "city": "г. Москва",
+    "company_link": "https://spb.hh.ru/employer/179533?hhtmFrom=vacancy",
+    "name": "АО Моринформсистема-Агат, Концерн",
+    "salary": "от 130 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104796042"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/5060211?hhtmFrom=vacancy",
+    "name": "Группа компаний Астра",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/105308447"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/1575916?hhtmFrom=vacancy",
+    "name": "ООО Прогресс-Софт",
+    "salary": "от 1 000 до 1 500 $ до вычета налогов",
+    "vacancy_link": "https://spb.hh.ru/vacancy/105249332"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/10613129?hhtmFrom=vacancy",
+    "name": "ООО МООМАЙНД",
+    "salary": "от 90 000 до 130 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103602017"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/3529?dpt=3529-3529-prof&hhtmFrom=vacancy",
+    "name": "Сбер для экспертов",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104667078"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4121865?hhtmFrom=vacancy",
+    "name": "ООО МАС Платформ",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104470130"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/9352254?hhtmFrom=vacancy",
+    "name": "Admire",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/105240421"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/10809908?hhtmFrom=vacancy",
+    "name": "ИП Жукова О.М.",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/105328416"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/192404?hhtmFrom=vacancy",
+    "name": "АО МОСГАЗ",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104340707"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/3556205?hhtmFrom=vacancy",
+    "name": "ООО УМК АРТСМЕД",
+    "salary": "от 150 000 ₽ до вычета налогов",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104727810"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/5060211?hhtmFrom=vacancy",
+    "name": "Группа компаний Астра",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/92217665"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/872178?hhtmFrom=vacancy",
+    "name": "ООО ИЦ АЙ-ТЕКО",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/105133634"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/655542?hhtmFrom=vacancy",
+    "name": "ЮMoney",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/100850964"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4747821?hhtmFrom=vacancy",
+    "name": "ООО РА Дельта",
+    "salary": "до 150 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104548603"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/5969087?hhtmFrom=vacancy",
+    "name": "JobSeek",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104244604"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/5427750?hhtmFrom=vacancy",
+    "name": "ООО Мебелистер",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104415649"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/1684993?hhtmFrom=vacancy",
+    "name": "ООО Виста",
+    "salary": "от 60 000 ₽ до вычета налогов",
+    "vacancy_link": "https://spb.hh.ru/vacancy/105072888"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/2324020?hhtmFrom=vacancy",
+    "name": "Точка",
+    "salary": "до 470 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103482417"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4082?hhtmFrom=vacancy",
+    "name": "М-Холдинг",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104907904"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company_link": "https://spb.hh.ru/employer/2569275?hhtmFrom=vacancy",
+    "name": "Emphasoft",
+    "salary": "до 60 000 ₽ до вычета налогов",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104645477"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/906557?hhtmFrom=vacancy",
+    "name": "SberTech",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104072630"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/873105?hhtmFrom=vacancy",
+    "name": "ООО Корпорация ЗНАК",
+    "salary": "от 180 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/103792323"
+  },
+  {
+    "city": "Калининград",
+    "company_link": "https://spb.hh.ru/employer/9641588?hhtmFrom=vacancy",
+    "name": "ООО Ритейл-Процессинг",
+    "salary": "от 200 000 до 220 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104276440"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/2727395?hhtmFrom=vacancy",
+    "name": "INNOVA GROUP",
+    "salary": "от 200 000 до 250 000 ₽ на руки",
+    "vacancy_link": "https://spb.hh.ru/vacancy/104896344"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/4730370?hhtmFrom=vacancy",
+    "name": "Corporate Performance Systems",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/105136689"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/2681700?hhtmFrom=vacancy",
+    "name": "ООО Империя кофе",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/105109745"
+  },
+  {
+    "city": "Москва",
+    "company_link": "https://spb.hh.ru/employer/136929?hhtmFrom=vacancy",
+    "name": "Иви",
+    "salary": "Уровень дохода не указан",
+    "vacancy_link": "https://spb.hh.ru/vacancy/92116169"
+  }
+]
